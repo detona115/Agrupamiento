@@ -50,7 +50,7 @@ python2.7 kmeans.py
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (LGPL) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (LGPL)
 
 ---
 ⌨️ con ❤️ por [Andy](https://github.com/detona115), Thiag y Pedro 😊
