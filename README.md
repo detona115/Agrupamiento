@@ -1,6 +1,6 @@
 # AGRUPAMIENTO
 
-Proyecto desarollado por mí persona y 2 colegas con la finalidad de comprobar conocimientos de programación en python y ejecución de algoritmo de agrupamiento (kmeans)
+Proyecto desarollado por mí persona y 2 colegas con la finalidad de ejecutar el algoritmo de agrupamiento (kmeans)
 
 ## Motivación ⌨️
 
